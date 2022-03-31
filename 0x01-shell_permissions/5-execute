@@ -1,2 +1,2 @@
 #!/bin/bash
-git update-index --chmod=+x hello
+git update-index --chmod=+x 5-execute
